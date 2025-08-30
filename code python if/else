@@ -1,0 +1,8 @@
+#điều kiện
+n = int(input("nhập n="))
+#n là số nguyên và có thể thay đổi để hợp với đề bài
+if n >10:
+# 10 có thể thay đổi
+  print("n lớn hơn 10")
+else:
+  print("n nhỏ hơn 10")

@@ -1,0 +1,4 @@
+#dùng math.factorial
+import math
+n=5 #thay đổi n thành số giai    thừa mình muốn nó thành
+print(math.factorial(n))
