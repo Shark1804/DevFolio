@@ -1,44 +1,57 @@
-<h1> Software Developer Folio </h1> 
-<h2> a small portfolio of Izek </h2><br>
+# 💻 Software Developer Portfolio
+### A small portfolio of Izek
 
-<h1> About me </h1>
+---
 
-<p> My name is Izek Nguyen im web developer and banner,poster,UI/UX designer with a strong interest in creating modern,profession and user-friendly designs. I enjoy learning new technologies and continuously improving my skills.
+## 👤 About Me
+My name is **Izek Nguyen**. I am a **web developer** and **banner/poster/UI-UX designer** with a strong interest in creating modern, professional, and user-friendly designs.  
 
-# feature
-<p> Modern UI/UX design + Reveal Animations <br>
-One Page Layout<br>
-Styled with Bootstrap v4.3 + Custom CSS<br>
-Fully Responsive<br>
-HTML5 & CSS3<br>
-Well organized documentation<br>
-banner,poster for shop <br>
-view my demo: <a href= "" rel="demo">click here </a>
+I enjoy learning new technologies and continuously improving my skills.
 
-# Project
+---
 
+## 🚀 Features
+- Modern UI/UX design with reveal animations  
+- One-page layout  
+- Styled with Bootstrap v4.3 + custom CSS  
+- Fully responsive  
+- Built with HTML5 & CSS3  
+- Well-organized documentation  
+- Banner & poster design for shops  
 
-# Skills
-## Frontend
-<p> HTML5 <br>
-CSS <br>
+🔗 **Demo:** [Click here](https://)
 
-## Backend
-Python <br>
+---
 
-## Tool
-<p>GitHUb <br>
-VS Code <br>
-
-## Design
-<p> Figma <br>
-UX/UI Design <br>
-Banner Design <br>
-Poster Design <br>
+## 📂 Projects
 
 
+---
 
-# Contact
-<h5> Email : tn3111593@gmail.com <br>
- GitHub : https://github.com/Izekdeveloper<br>
-discord : https://discord.gg/azENuvmany<br> </h5>
+## 🛠 Skills
+
+### 🎨 Frontend
+- HTML5  
+- CSS  
+
+### ⚙️ Backend
+- Python  
+
+### 🧰 Tools
+- GitHub  
+- VS Code  
+
+### 🎯 Design
+- Figma  
+- UI/UX Design  
+- Banner Design  
+- Poster Design  
+
+---
+
+## 📞 Contact
+- 📧 Email: tn3111593@gmail.com  
+- 💻 GitHub: [Izekdeveloper](https://github.com/Izekdeveloper)  
+- 💬 Discord: [Join Server](https://discord.gg/azENuvmany)  
+
+---
