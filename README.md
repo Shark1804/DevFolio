@@ -19,6 +19,23 @@ view my demo: <a href= "" rel="demo">click here </a>
 
 
 # Skills
+## Frontend
+<p> HTML5 <br>
+CSS <br>
+
+## Backend
+Python <br>
+
+## Tool
+<p>GitHUb <br>
+VS Code <br>
+
+## Design
+<p> Figma <br>
+UX/UI Design <br>
+Banner Design <br>
+Poster Design <br>
+
 
 
 # Contact
