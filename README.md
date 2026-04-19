@@ -1,6 +1,6 @@
 # 💻 Software Developer Portfolio
 ### A small portfolio of Izek
-
+![image_alt](https://github.com/Izekdeveloper/DevFolio/blob/0f879eb2608db168bfce38cd53932e32400f33b4/example/example.png)
 ---
 
 ## 👤 About Me
